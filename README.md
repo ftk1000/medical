@@ -2,8 +2,9 @@
 
 2025.07.27
 
+* [Про сухость во рту](https://habr.com/ru/companies/belayaraduga/articles/930356/)
 
-
+-----------------------
 
           …or create a new repository on the command line
           echo "# medical" >> README.md
