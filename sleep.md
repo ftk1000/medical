@@ -1,13 +1,16 @@
 2025.09.05
 
-PROMPT: 
-```
-perform analysis of sleep measurements from each image separately. 
-Compare them them. 
-Show where they agree, where they differ and by how much. 
-Make sleep improvement recommendations.```
-
 * /Users/paulpaul/Documents/medical/sleep
+
+
+PROMPT: 
+
+      Perform analysis of sleep measurements from each image separately. 
+      Compare them them. 
+      Show where they agree, where they differ and by how much. 
+      Make sleep improvement recommendations.
+
+
 
 * https://chatgpt.com/c/68bb0cae-d394-8330-a94e-dd254bcbc6fe
 
